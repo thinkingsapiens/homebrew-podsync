@@ -6,8 +6,13 @@ lean, native-feeling macOS podcast client for Apple Silicon.
 ## Install
 
 ```sh
-brew install thinkingsapiens/podsync/podsync
+brew install thinkingsapiens/podsync/podsync-app
 ```
+
+The cask is named `podsync-app` rather than `podsync` because `podsync` is
+already taken in Homebrew's own `homebrew-core` by an unrelated tool
+([mxpv/podsync](https://github.com/mxpv/podsync), a YouTube/Vimeo-to-RSS
+converter). This one is unrelated to that one.
 
 ## Update
 
