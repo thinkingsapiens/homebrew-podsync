@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-cask "podsync" do
+cask "podsync-app" do
   version "0.1.0-alpha.2"
   sha256 "baee648054d97c4a9340cbb26079fe2bb047b5a7ea1e9b9028dad6ae4aa03329"
 
