@@ -1,7 +1,11 @@
 # homebrew-podsync
 
+[![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%C2%B7%20Intel-lightgrey.svg)](https://github.com/thinkingsapiens/podsync/releases/latest)
+[![Linux](https://img.shields.io/badge/Linux-x86__64-FCC624.svg)](https://github.com/thinkingsapiens/podsync/releases/latest)
+
 Homebrew tap for [PodSync](https://thinkingsapiens.github.io/podsync/), a
-lean, native-feeling macOS podcast client for Apple Silicon.
+lean, native-feeling podcast client for macOS (Apple Silicon or Intel) and
+Linux (x86_64).
 
 ## Install
 
