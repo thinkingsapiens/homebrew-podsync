@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "podsync-app" do
-  version "0.1.0-alpha.2"
-  sha256 "baee648054d97c4a9340cbb26079fe2bb047b5a7ea1e9b9028dad6ae4aa03329"
+  version "0.1.0-alpha.3"
+  sha256 "6267d13d48df7ec2686363bc9830d9fecdfe338e6993a033bf3690ef6efd0cee"
 
   url "https://github.com/thinkingsapiens/podsync/releases/download/v#{version}/PodSync_#{version}_aarch64.dmg"
   name "PodSync"
